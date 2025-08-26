@@ -1,43 +1,12 @@
-# 👋 Hi, I'm Dalchand Yogi  
+### Hello there 👋
 
-🚀 **Flutter Developer | Data Science Enthusiast | Tech Explorer**
+#### A Flutter Developer by day ☼ and a Data Science Enthusiast by night ☾
 
----
+Flutter Developer (Intern) since April 2025<br>
+BCA Final Year Student passionate about building full-stack applications<br>
 
-## 🧑‍💻 About Me
-- 🎓 BCA Final Year Student  
-- 💼 Currently doing an **internship in Flutter** (since April 2025)  
-- 📱 Passionate about building **cross-platform apps** with Flutter  
-- 🤖 Exploring **AI & ML integration** in apps (Google ML Kit, Gemini API, etc.)  
-- 🛠️ Interested in **full-stack development** (FastAPI, MySQL, Firebase)  
-- 📊 Also diving into **Data Science & Analytics** (Python, Pandas, Matplotlib, Numpy)  
-
----
-
-## 🔧 Tech Stack
-### 🌐 Frontend & Mobile
-- Flutter | Dart  
-- HTML | CSS | JavaScript  
-
-### ⚙️ Backend & Database
-- FastAPI | Python  
-- MySQL | Firebase  
-
-### 📊 Data Science
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- EDA & Data Cleaning  
-
-### 🛠️ Tools
-- Git & GitHub  
-- VS Code | Android Studio  
-- Figma (UI/UX Prototyping)  
-
----
-
-## 🌱 Currently Learning
-- Advanced Flutter state management (Provider, Riverpod, BLoC)  
-- Machine Learning model deployment in web & mobile apps
-
----
-
-⭐️ _“Code. Learn. Build. Repeat.”_
+- ⚙️ I use daily : `.dart`, `.flutter`, `.html`, `.css`, `.js`, `.python`, `.fastapi`, `.mysql`
+- 📊 Skilled in : `.pandas`, `.numpy`, `.matplotlib`, `.seaborn`, `.eda`
+- 💻 Tools : `.git`, `.vscode`, `.androidstudio`, `.figma`
+- 🌱 Exploring **AI integrations** in apps (Firebase ML Kit, Gemini API)
+- 💬 `ping` me about **Flutter**, **Python**, **Data Science**, **Backend APIs**, **UI/UX Design**
