@@ -1,16 +1,25 @@
 ### Hello there 👋
 
-#### A Flutter Developer and Data Science Learner
+#### A Data Science & Machine Learning Engineer
 
-Flutter Developer (Intern) since April 2025<br>
-BCA Final Year Student passionate about building full-stack applications<br>
+MCA student focused on Data Science and Machine Learning<br>
 
-- ⚙️ I use daily : `Dart`, `Flutter`, `HTML`, `CSS`, `JS`, `Python`, `FastAPI`, `Mysql`
+Passionate about analyzing data, finding patterns, and building data-driven projects<br>
+
+- ⚙️ I use daily : **`Python`**, **`Pandas`**, **`NumPy`**, **`Matplotlib`**, **`Seaborn`**, **`SQL`**
+
 <br><br>
-- 📊 Skilled in : `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `EDA`, `OpenCV`
+
+- 📊 Skilled in : `Data Cleaning`, `Data Preprocessing`, `EDA`, `Data Visualization`, `Feature Engineering`, `Mobile Application Development`
+
 <br><br>
-- 💻 Tools : `Git`, `Vscode`, `Android Studio`, `Figma`
+
+- 💻 Tools : `Jupyter Notebook`, `Kaggle`, `Git`, `GitHub`, `VS Code`, `Andriod Studio`
+
 <br><br>
-- 🌱 Exploring **AI integrations** in apps (Firebase ML Kit, Gemini API)
+
+- 🌱 Currently learning **Machine Learning** and working with `Scikit-learn`
+
 <br><br>
-- 💬 `ping` me about **Flutter**, **Python**, **Data Science**, **Backend APIs**.
+
+- 💬 `ping` me about **Python**, **Data Science**, **Machine Learning**, **Data Analysis**, **Mobile Application Development**.
